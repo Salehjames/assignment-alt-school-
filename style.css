@@ -426,3 +426,104 @@ span {
     margin-left: .5rem;
     padding: 16px 46px;
 }
+
+    /* URL */
+.Desktop11 {
+    width: 1440px; 
+    height: 523px; 
+    position: relative; 
+    background: linear-gradient(180deg, #1E3448 100%, rgba(30, 52, 72, 0) 100%);
+}
+.Group2 {
+    width: 985.90px; 
+    height: 1606.47px; 
+    left: 1119.23px; 
+    top: -84.48px; 
+    position: absolute; 
+    transform: rotate(22.10deg); 
+    transform-origin: 0 0; 
+    opacity: 0.70;
+}
+.Vector01 {
+    width: 500.19px; 
+    height: 525.38px;
+    position: absolute;
+    top: 498px;
+    left: -1007px;
+    /* transform: translate(-1200px, 300px); */
+    transform: rotate(-22deg);
+    transform-origin: 0 0; 
+    /* background: linear-gradient(344deg, rgba(0, 90, 226, 0.60) 0%, rgba(114.75, 229.76, 255, 0.23) 100%); */
+}
+.Vector02 {
+    width: 700.03px; 
+    height: 645.27px;
+    position: absolute;
+    top: 450px;
+    right: 1500px;
+    transform: rotate(-22deg); 
+    transform-origin: 0 0; 
+    /* background: linear-gradient(264deg, rgba(158, 230, 247, 0) 0%, rgba(158, 230, 247, 0.18) 100%); */
+}
+.Vector03 {
+    width: 450.22px; 
+    height: 548.21px;
+    position: absolute;
+    top: 480px;
+    right: 1560px;
+    transform: rotate(-22.46deg); 
+    transform-origin: 0 0; 
+    /* background: linear-gradient(272deg, rgba(158, 230, 247, 0) 0%, rgba(158, 230, 247, 0.14) 100%); */
+}
+.Frame1000001725 {
+    background-position: center;
+}
+.imageContainer {
+    position: relative;
+}
+.imageContainer img {
+    position: absolute;
+    top: 81px;
+    left: 460px;
+}
+.Vector04 {
+    width: 550px;
+    height: 300px;
+    top: 370px;
+    left: -99px;
+    position: absolute;
+    transform: rotate(-22deg);
+    transform-origin: 0 0; 
+}
+.Vector05 {
+    width: 510px;
+    height: 200px;
+    top: 450px;
+    left: -10px;
+    position: absolute;
+    transform: rotate(-23deg);
+    transform-origin: 0 0; 
+}
+
+    /* FAQs */
+.FAQs {
+    display: flex;
+    justify-content: center;
+    /* width: 50%;
+    margin: 4rem auto; */
+}
+/* .FAQs > div {
+    display: flex;
+    align-items: center;
+    margin: auto;
+} */
+/* .FAQs h4 {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+} */
+.FAQsContents {
+    text-align: right;
+}
